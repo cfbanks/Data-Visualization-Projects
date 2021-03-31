@@ -2,11 +2,11 @@
 
 This repository contains some of the data visualization projects that I completed during my Master of Data Science Degree at the University of British Columbia (Okanagan Campus). Our course focused on using the Altair (for Python) and GGplot2 (for R) visualization libraries. 
 
-Please Note: All of these projects were completed under time constraints (1-2 weeks) of a busy Masters program. Please consider that information when viewing the projects. I plan on improving these projects in the future when I have more free time. 
+**Please Note: All of these projects were completed under time constraints (1-2 weeks) of a busy Masters program. Please consider that information when viewing the projects. I plan on improving these projects in the future when I have more free time.**
 
 ## Project #1: NBA analytics dashboard
 
-This dashboard was created using Python, Dash, and Heroku. It displays statistical information about basketball players in the NBA, and statistical trends found in the league as a whole. I worked as part of a group of four students, and I was primarily in charge of the data wrangling and visualizations used for the "NBA Trends" tab of the dashboard. I was also involved in creating identical charts for all the tabs for the R language version of the dashboard. Here is the link to the dashboard: [NBA analytics dashboard](https://nba-analytics-app.herokuapp.com/)
+This dashboard was created using Python, Plotly, Dash, and Heroku. It displays statistical information about basketball players in the NBA, and statistical trends found in the league as a whole. I worked as part of a group of four students, and I was primarily in charge of the data wrangling and visualizations used for the "NBA Trends" tab of the dashboard. I was also involved in creating identical charts for all the tabs for the R language version of the dashboard. Here is the link to the dashboard: [NBA analytics dashboard](https://nba-analytics-app.herokuapp.com/)
 
 ## Project #2: Business Report to a General Manager on the use of the NBA analytics dashboard 
 
